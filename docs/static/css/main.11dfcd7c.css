@@ -1,0 +1,2 @@
+*{font-family:Helvetica,Arial,sans-serif}body{padding:60px}.card{align-content:center;border:1px solid violet;border-radius:7px;margin:10px;overflow:hidden}.card p{padding:7px;text-align:center}.card img{height:auto;width:100%}.card-grid{display:grid;grid-template-columns:repeat(3,1fr)}.card-grid h2{font-size:2rem}.card-grid h2,.card-grid h6{grid-column:1/4;text-align:center}.card-grid h6{font-size:1.5rem}
+/*# sourceMappingURL=main.11dfcd7c.css.map*/
